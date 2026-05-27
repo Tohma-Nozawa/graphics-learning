@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.user
+*.aps
+*.suo
+*.opensdf
+*.sdf
+*.cachefile
+
+# C++ build
+*.exp
+*.lib
+*.idb
+
+# Visual Studio Code (if using)
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 大きなライブラリ（環境構築でユーザーが別途配置）
+glm/
+
+# Archives
+*.zip
+*.7z
+*.tar.gz
