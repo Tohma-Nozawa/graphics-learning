@@ -11,7 +11,10 @@
 をUE5上で実装する。
 
 ## 学習ロードマップ
-- [ ] OpenGL基礎（learnopengl.com）
+- [x] OpenGL環境構築（GLFW・GLAD・Visual Studio）
+- [ ] learnopengl.com Hello Window
+- [ ] learnopengl.com Hello Triangle
+- [ ] OpenGL基礎（learnopengl.com）完走
 - [ ] C++実践力の習得
 - [ ] UE5カスタムHLSLシェーダー
 - [ ] Gerstner Wave実装
