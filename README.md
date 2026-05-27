@@ -17,7 +17,7 @@
 - [x] EBO による四角形描画
 - [x] learnopengl.com Shaders章（Shaderクラス・色属性・フラグメント補間）
 - [x] learnopengl.com Textures章（stb_image、テクスチャユニット、複数テクスチャ合成）
-- [ ] learnopengl.com Transformations章
+- [x] learnopengl.com Transformations章
 - [ ] OpenGL基礎（learnopengl.com）完走
 - [ ] C++実践力の習得
 - [ ] UE5カスタムHLSLシェーダー
