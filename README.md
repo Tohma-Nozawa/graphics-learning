@@ -13,7 +13,8 @@
 ## 学習ロードマップ
 - [x] OpenGL環境構築（GLFW・GLAD・Visual Studio）
 - [x] learnopengl.com Hello Window
-- [ ] learnopengl.com Hello Triangle
+- [x] learnopengl.com Hello Triangle
+- [x] EBO による四角形描画
 - [ ] OpenGL基礎（learnopengl.com）完走
 - [ ] C++実践力の習得
 - [ ] UE5カスタムHLSLシェーダー
