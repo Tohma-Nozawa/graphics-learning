@@ -19,6 +19,7 @@
 - [x] learnopengl.com Textures章（stb_image、テクスチャユニット、複数テクスチャ合成）
 - [x] learnopengl.com Transformations章
 - [x] learnopengl.com Coordinate Systems章（MVP行列、3D描画、透視投影）
+- [x] learnopengl.com Camera章
 - [ ] OpenGL基礎（learnopengl.com）完走
 - [ ] C++実践力の習得
 - [ ] UE5カスタムHLSLシェーダー
